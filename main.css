@@ -1,0 +1,106 @@
+#centrar{
+	margin: 0% 13%;
+}
+
+.linea1{
+	border-top: 1px solid black;
+}
+.floating-box {
+    display: inline-block;
+    width: 205px;
+    height: 30px;
+    margin: -2px;
+    padding-top: 4px;
+    text-align:center;
+    border-right: 0px;
+    border-right: 0px;
+}
+.division{
+display: inline-block;
+width: 10px;
+height: 30px;
+margin: -2px;
+padding-top: 4px;
+text-align: center;
+border-right:0px; 
+border-left:0px;
+}
+
+.linea2{
+	border-bottom: 1px solid black;
+	
+}
+#centrargrupal{
+	width: 941px;
+	margin-left: 1.5%;
+}
+#linea{
+	border-top: 1px solid black; 
+	width: 20%;
+	margin-left:42%;
+}
+.center{
+	text-align: center;
+	width: 40%;
+	margin-left: 33%;
+	font-size: 18px;
+}
+.ncoders{
+	font-size: 30px;
+} 
+
+/*CSS NUESTRAS CODERS*/
+
+#lineanc{
+	border-top: 1px solid black; 
+	width: 20%;
+	margin-left:42%;
+
+}
+.fotos{
+	position: relative;
+	top:40px;
+	left: 100px;
+	margin:10px;
+	display:inline-block;
+}
+p{
+	color: white;
+	margin-right:30px;
+	position:absolute;
+	top:10px;
+	text-align: center;
+	width: 40%;
+	margin-left: 33%;
+	font-size: 18px;
+}
+* {
+	position: relative;
+	left: 10px;
+}
+
+/*CODER.DETAIL*/
+
+.margen{
+	border: solid black 1px;
+	width: 900px;
+	height: 1200px;
+	margin: 5%;
+	margin-left: 10px;
+}
+.imagenchica{
+ margin-left: 37%;
+ margin-top: 4%;
+ padding: 0px;
+ border-radius: 800px;
+}
+
+h1{
+	font-family: century;
+	text-align: center;
+}
+.parrafo2{
+	/*text-align: center;
+	margin: 2%;
+	width: 850px;*/
+}
